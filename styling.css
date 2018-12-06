@@ -1,0 +1,49 @@
+.container-fluid{
+	padding: 0px;
+	background-color: #303030;
+}
+.custom-bar {
+	padding: 0;
+	margin-bottom: 0;
+	min-height: auto;
+	position: fixed;
+	width: 100%;
+	border-radius: 0px;
+}
+.custom-btn{
+	padding: 0 10px;
+	color: #A9A9A9;
+}
+.custom-btn:hover{
+	color: white;
+}
+.tab-bar{
+	position: fixed;
+	right: 0;
+	top:0;
+	z-index: 1;
+}
+.tab-bar  button{
+	text-align: justify;
+	width: 20px;
+	color: #A9A9A9;
+	white-space: normal;
+	padding: 10px 0px 10px 2px;
+	font-size: 15px;
+}
+.panel{
+	position:fixed;
+	background-color: black;
+	width: 30%;
+	height: 100%;
+	top: 0px;
+	right: 0px;
+	padding:20px;
+}
+.test{
+	position: fixed;
+}
+.tab-bar-container{
+	right: 0;
+	top: 5px;
+}
